@@ -1,0 +1,12 @@
+[package]
+name = "active-win-macos-example"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+active-win-pos-rs = "0.7.1"
+cocoa = "0.24.1"
+objc = "0.2.7"
+
